@@ -37,6 +37,39 @@ ul{
     background-color: #35424a;
 }
 
+.dark_heading{
+    font-size: 17px;
+    padding: 15px;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #35424a;
+}
+
+.about_ul{
+    margin: auto;
+}
+
+.dark_ul{
+    padding: 30px;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #35424a;
+}
+
+.dark_about{
+    padding: 10px;
+    color: #ffffff;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #35424a;
+}
+
+.li{
+    padding:0px 10px;
+}
+
 /*Header*/
 header{
     background-color: #35424a;
